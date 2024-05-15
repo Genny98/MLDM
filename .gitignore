@@ -31,3 +31,46 @@
 *.pptx
 *.doc
 *.dta
+.DS_Store
+*.acsm
+*.webp
+AHDS_SUMMATIVE/
+Browns-Cookbook
+CKD Master.Data/
+*.enl
+*.enlx
+Genomic_Data_Science/
+Meta-analysis/
+*.sh
+*.R
+*.RData
+*.pkg
+TableauAutoUpdate/
+Teams_osx.pkg
+Xcode-beta 2.app/
+Xcode-beta.app/
+*.xip
+analyzing-data-in-tableau 2/
+analyzing-data-in-tableau/
+*.bib
+*.Rda
+*.xpt
+*.MP4
+*.svg
+*.enw
+*.xml
+gh_2.32.1_macOS_amd64/
+*.dat
+hpc3/
+hpc6/
+multilevel- prac 1/
+*.Rproj
+plink_mac_20231018/
+*.pkg
+sb
+scholar*.enw
+*.Rdata
+*.Rmd
+simulating_data_2level.R
+simulating_for_lecture_slides.R
+snakemake-practice*/
